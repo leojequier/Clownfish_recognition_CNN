@@ -1,0 +1,128 @@
+['Amphiprion_clarkii', 'Amphiprion_frenatus', 'Amphiprion_ocellaris', 'Amphiprion_perideraion']
+Epoch 0/24
+----------
+train Loss: 1.1555 Acc: 0.5043
+val Loss: 0.8948 Acc: 0.6911
+
+Epoch 1/24
+----------
+train Loss: 0.7073 Acc: 0.7842
+val Loss: 0.4992 Acc: 0.8699
+
+Epoch 2/24
+----------
+train Loss: 0.5953 Acc: 0.8039
+val Loss: 0.4941 Acc: 0.8293
+
+Epoch 3/24
+----------
+train Loss: 0.5204 Acc: 0.8261
+val Loss: 0.3937 Acc: 0.8943
+
+Epoch 4/24
+----------
+train Loss: 0.4837 Acc: 0.8459
+val Loss: 0.4427 Acc: 0.8374
+
+Epoch 5/24
+----------
+train Loss: 0.4419 Acc: 0.8619
+val Loss: 0.3636 Acc: 0.8618
+
+Epoch 6/24
+----------
+train Loss: 0.4151 Acc: 0.8705
+val Loss: 0.4498 Acc: 0.8130
+
+Epoch 7/24
+----------
+train Loss: 0.3919 Acc: 0.8792
+val Loss: 0.3460 Acc: 0.8699
+
+Epoch 8/24
+----------
+train Loss: 0.4090 Acc: 0.8730
+val Loss: 0.3741 Acc: 0.8618
+
+Epoch 9/24
+----------
+train Loss: 0.3893 Acc: 0.8767
+val Loss: 0.3364 Acc: 0.8862
+
+Epoch 10/24
+----------
+train Loss: 0.3785 Acc: 0.8903
+val Loss: 0.3466 Acc: 0.8699
+
+Epoch 11/24
+----------
+train Loss: 0.3754 Acc: 0.8816
+val Loss: 0.3320 Acc: 0.8699
+
+Epoch 12/24
+----------
+train Loss: 0.3759 Acc: 0.8816
+val Loss: 0.3488 Acc: 0.8537
+
+Epoch 13/24
+----------
+train Loss: 0.3907 Acc: 0.8730
+val Loss: 0.3475 Acc: 0.8780
+
+Epoch 14/24
+----------
+train Loss: 0.3660 Acc: 0.8853
+val Loss: 0.3269 Acc: 0.8699
+
+Epoch 15/24
+----------
+train Loss: 0.3864 Acc: 0.8779
+val Loss: 0.3484 Acc: 0.8699
+
+Epoch 16/24
+----------
+train Loss: 0.3772 Acc: 0.8866
+val Loss: 0.3270 Acc: 0.8862
+
+Epoch 17/24
+----------
+train Loss: 0.4120 Acc: 0.8705
+val Loss: 0.3414 Acc: 0.8699
+
+Epoch 18/24
+----------
+train Loss: 0.3592 Acc: 0.8890
+val Loss: 0.3508 Acc: 0.8618
+
+Epoch 19/24
+----------
+train Loss: 0.3873 Acc: 0.8792
+val Loss: 0.3598 Acc: 0.8455
+
+Epoch 20/24
+----------
+train Loss: 0.3737 Acc: 0.8829
+val Loss: 0.3466 Acc: 0.8618
+
+Epoch 21/24
+----------
+train Loss: 0.3580 Acc: 0.8804
+val Loss: 0.3520 Acc: 0.8699
+
+Epoch 22/24
+----------
+train Loss: 0.3735 Acc: 0.8878
+val Loss: 0.3540 Acc: 0.8699
+
+Epoch 23/24
+----------
+train Loss: 0.3732 Acc: 0.8915
+val Loss: 0.3556 Acc: 0.8699
+
+Epoch 24/24
+----------
+train Loss: 0.3623 Acc: 0.8952
+val Loss: 0.3414 Acc: 0.8699
+
+Training complete in 25m 1s
+Best val Acc: 0.894309

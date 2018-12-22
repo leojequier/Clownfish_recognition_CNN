@@ -1,0 +1,20 @@
+When using this dataset please use the following citation and pay attention to the rights documented in the rights.txt:
+Queensland Museum (2018). Queensland Museum provider for OZCAM. Occurrence dataset https://doi.org/10.15468/lotsye accessed via GBIF.org on 2018-10-22. 10.15468/lotsye
+Australian Museum (2017). Lizard Island Research Station. Occurrence dataset https://doi.org/10.15468/5bsrkm accessed via GBIF.org on 2018-10-22. 10.15468/5bsrkm
+Questagame (2018). Questagame weekly feed. Occurrence dataset https://doi.org/10.15468/slqqt8 accessed via GBIF.org on 2018-10-22. 10.15468/slqqt8
+Museums Victoria (2018). Museums Victoria provider for OZCAM. Occurrence dataset https://doi.org/10.15468/lp1ctu accessed via GBIF.org on 2018-10-22. 10.15468/lp1ctu
+Catania D, Fong J (2018). CAS Ichthyology (ICH). Version 150.144. California Academy of Sciences. Occurrence dataset https://doi.org/10.15468/efh2ib accessed via GBIF.org on 2018-10-22. 10.15468/efh2ib
+Citizen Science - ALA Website (2018). ALA species sightings and OzAtlas. Occurrence dataset https://doi.org/10.15468/jayxmn accessed via GBIF.org on 2018-10-22. 10.15468/jayxmn
+MNHN - Museum national d'Histoire naturelle (2018). The fishes collection (IC) of the Muséum national d'Histoire naturelle (MNHN - Paris). Version 57.84. Occurrence dataset https://doi.org/10.15468/tm7whu accessed via GBIF.org on 2018-10-22. 10.15468/tm7whu
+Staatliche Naturwissenschaftliche Sammlungen Bayerns. The Pisces Collection at the Staatssammlung für Anthropologie und Paläoanatomie München. Occurrence dataset https://doi.org/10.15468/uxag7k accessed via GBIF.org on 2018-10-22. 10.15468/uxag7k
+Chic Giménez Ò, Lombarte Carrera A (2018). Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC. Institute of Marine Sciences (ICM-CSIC). Occurrence dataset https://doi.org/10.15468/wdwxid accessed via GBIF.org on 2018-10-22. 10.15468/wdwxid
+Harvard University M, Morris P J (2018). Museum of Comparative Zoology, Harvard University. Version 162.123. Museum of Comparative Zoology, Harvard University. Occurrence dataset https://doi.org/10.15468/p5rupv accessed via GBIF.org on 2018-10-22., doi:10.15468/p5rupv 10.15468/p5rupv
+Bentley A (2018). KUBI Ichthyology Collection. Version 17.39. University of Kansas Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/mgjasg accessed via GBIF.org on 2018-10-22. 10.15468/mgjasg
+Grant S, Swagel K (2018). Field Museum of Natural History (Zoology) Fish Collection. Version 13.5. Field Museum. Occurrence dataset https://doi.org/10.15468/alz7wu accessed via GBIF.org on 2018-10-22. 10.15468/alz7wu
+Bentley A (2018). KUBI Ichthyology Tissue Collection. Version 18.26. University of Kansas Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/jmsnwg accessed via GBIF.org on 2018-10-22. 10.15468/jmsnwg
+Australian Museum (2018). Australian Museum provider for OZCAM. Occurrence dataset https://doi.org/10.15468/e7susi accessed via GBIF.org on 2018-10-22. 10.15468/e7susi
+Gross J (2018). University of California Museum of Paleontology. Version 125.68. Berkeley Natural History Museums. Occurrence dataset https://doi.org/10.15468/bxpyo3 accessed via GBIF.org on 2018-10-22. 10.15468/bxpyo3
+Coetzer W (2017). Occurrence records of southern African aquatic biodiversity. Version 1.10. The South African Institute for Aquatic Biodiversity. Occurrence dataset https://doi.org/10.15468/pv7vds accessed via GBIF.org on 2018-10-22. 10.15468/pv7vds
+Orrell T, Hollowell T (2018). NMNH Extant Specimen Records. Version 1.19. National Museum of Natural History, Smithsonian Institution. Occurrence dataset https://doi.org/10.15468/hnhrg3 accessed via GBIF.org on 2018-10-22. 10.15468/hnhrg3
+Natural History Museum (2018). Natural History Museum (London) Collection Specimens. Occurrence dataset https://doi.org/10.5519/0002965 accessed via GBIF.org on 2018-10-22., http://dx.doi.org/10.5519/0002965 10.5519/0002965
+iNaturalist.org (2018). iNaturalist Research-grade Observations. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2018-10-22. 10.15468/ab3s5x

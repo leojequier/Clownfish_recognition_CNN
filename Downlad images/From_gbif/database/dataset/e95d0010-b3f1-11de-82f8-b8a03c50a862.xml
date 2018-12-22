@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e95d0010-b3f1-11de-82f8-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/wdwxid</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=aforo</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.es/ipt/resource?r=aforo</alternateIdentifier>
+        <alternateIdentifier>e95d0010-b3f1-11de-82f8-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>9192</alternateIdentifier>
+    <title>Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC</title>
+    <creator>
+    <individualName>
+<givenName>Òscar</givenName>          <surName>Chic Giménez</surName>
+    </individualName>
+<organizationName>Institute of Marine Sciencies (ICM-CSIC)</organizationName><positionName>Vice-director</positionName>    <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37-49</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>    </address>
+<phone>+34 93 230 95 00</phone><electronicMailAddress>ochic@icm.csic.es</electronicMailAddress><onlineUrl>http://www.icm.csic.es/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Antoni</givenName>          <surName>Lombarte Carrera</surName>
+    </individualName>
+<organizationName>Institute of Marine Sciencies (ICM-CSIC)</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37-49</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>    </address>
+<phone>+34 93 230 95 00</phone><electronicMailAddress>toni@icm.csic.es</electronicMailAddress><onlineUrl>http://www.icm.csic.es/</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2018-06-28
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This collection is a catalogue of otolith stored in a database.
+The database is regularly updated and at present (06/17/2014) it contains a total of 4556 high resolution images corresponding to 1381 species and 216 families from the Mediterranean Sea, Antarctic Ocean (Weddell Sea, Ross Sea, Antarctic Peninsula), Atlantic Ocean (Argentina, Uruguay, South-western Islands, Gulf of Mexico, USA, Canada, Baltic Sea, North Sea, Ireland Sea, Cantabric Sea, Portugal, Madeira, Canary Islands, Morocco, Cabo Verde, Senegal, Gabon, Namibia), Indic Ocean (Madagascar, Tanzania, Red Sea, Iran) and Pacific (Australia, New Zealand, New Caledonia, Muroroa, Peru, Ecuador, Canada, Alaska).
+AFORO website offers an open online catalogue of otolith images and its associated shape analysis through pattern recognition techniques applying Fourier transform (FT), curvature space scale (CSS) and wavelet analysis (WT). This site also includes an Automatic Taxon Identification such allows to search and identify directly using query images of otholits. Recently, AFORO has incorporated 3D otoliths.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>automatic taxon identification</keyword>
+              <keyword>fish otoliths</keyword>
+              <keyword>Fourier</keyword>
+              <keyword>3D otoliths</keyword>
+              <keyword>otolith database</keyword>
+              <keyword>wavelet</keyword>
+              <keyword>curvature space scale</keyword>
+              <keyword>otoliths</keyword>
+              <keyword>otolith shape</keyword>
+              <keyword>sagitta</keyword>
+              <keyword>otolith</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://aforo.cmima.csic.es</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Species and families from the Mediterranean Sea, Antarctic Ocean (Weddell Sea, Ross Sea, Antarctic Peninsula), Atlantic Ocean (Argentina, Uruguay, South-western Islands, Gulf of Mexico, USA, Canada, Baltic Sea, North Sea, Ireland Sea, Cantabric Sea, Portugal, Madeira, Canary Islands, Morocco, Cabo Verde, Senegal, Gabon, Namibia), Indic Ocean (Madagascar, Tanzania, Red Sea, Iran) and Pacific (Australia, New Zealand, New Caledonia, Muroroa, Peru, Ecuador, Canada, Alaska).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Acipenseriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Albuliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Anguilliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Argentiniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Atheriniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Aulopiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Batrachoidiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Beloniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Beryciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Characiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Clupeiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cypriniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cyprinodontiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Elopiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gadiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gasterosteiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gasterostiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gonorynchiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lampridiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lophiiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Mugiliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Myctophiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ophidiiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Osmeriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Osteoglossiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Perciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pleuronectiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Polymixiiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Salmoniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Scorpaeniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Siluriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Stephanoberyciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Stomiiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Tetraodontiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Zeiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Chordata</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Amalia</givenName>          <surName>Manjabacas Soriano</surName>
+    </individualName>
+<organizationName>Institute of Marine Sciencies (ICM-CSIC)</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37-49</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>    </address>
+<phone>+34 93 230 95 00</phone><electronicMailAddress>manjabacas@icm.csic.es</electronicMailAddress><onlineUrl>http://www.icm.csic.es/</onlineUrl>      </contact>
+
+      <project >
+          <title>Project ION tools for the search, management and visualization of heterogenous data over Internet (Ref: MCyT - TIC2000-0376-p4-04)</title>
+          <personnel>
+    <individualName>
+<givenName>Emili</givenName>          <surName>García Ladona</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Ministerio Ciencia y Tecnología (MCyT)</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Otolith images and its associated shape analysis through pattern recognition techniques applying Fourier transform (FT), curvature space scale (CSS) and wavelet analysis (WT) are used in identification of stocks, populations and  species as part of ecological, trophic , paleontological, archeological and fishery studies. This site also includes an Automatic Taxon Identification such allows to search and identify directly using query images of otholits.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2018-10-22T11:49:56Z</dateStamp>
+      <citation>Chic Giménez Ò, Lombarte Carrera A (2018). Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC. Institute of Marine Sciences (ICM-CSIC). Occurrence dataset https://doi.org/10.15468/wdwxid accessed via GBIF.org on 2018-10-22.</citation>
+              <resourceLogoUrl>http://www.gbif.es/ipt/logo.do?r=aforo</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>e95d0010-b3f1-11de-82f8-b8a03c50a862</collectionIdentifier>
+                <collectionName>Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC</collectionName>
+              </collection>
+                <specimenPreservationMethod>NO_TREATMENT</specimenPreservationMethod>
+              <livingTimePeriod>1975</livingTimePeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

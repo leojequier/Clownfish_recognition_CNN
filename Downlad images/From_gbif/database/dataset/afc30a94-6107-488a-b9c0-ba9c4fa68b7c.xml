@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="afc30a94-6107-488a-b9c0-ba9c4fa68b7c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/alz7wu</alternateIdentifier>
+        <alternateIdentifier>http://fmipt.fieldmuseum.org:8080/ipt/resource?r=fmnh_fishes</alternateIdentifier>
+        <alternateIdentifier>http://fmipt.fieldmuseum.org:8080/ipt/resource.do?r=fmnh_fishes</alternateIdentifier>
+        <alternateIdentifier>afc30a94-6107-488a-b9c0-ba9c4fa68b7c</alternateIdentifier>
+        <alternateIdentifier>14342</alternateIdentifier>
+    <title>Field Museum of Natural History (Zoology) Fish Collection</title>
+    <creator>
+    <individualName>
+<givenName>Sharon</givenName>          <surName>Grant</surName>
+    </individualName>
+<organizationName>Field Museum of Natural History</organizationName><positionName>Technology Liaison to Science</positionName>    <address>
+<deliveryPoint>1400 S Lake Shore Drive</deliveryPoint><city>Chicago</city><administrativeArea>IL</administrativeArea><postalCode>60605</postalCode><country>UNITED_STATES</country>    </address>
+<phone>3126657203</phone><electronicMailAddress>sgrant@fieldmuseum.org</electronicMailAddress><onlineUrl>http://www.fieldmuseum.org</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Kevin</givenName>          <surName>Swagel</surName>
+    </individualName>
+<organizationName>Field Museum of Natural History</organizationName><positionName>Collections Staff</positionName>    <address>
+<deliveryPoint>1400 S Lake Shore Drive</deliveryPoint><city>Chicago</city><administrativeArea>IL</administrativeArea><postalCode>60605</postalCode><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>kswagel@fieldmuseum.org</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Laura</givenName>          <surName>Russell</surName>
+    </individualName>
+<positionName>VertNet Programmer</positionName><electronicMailAddress>larussell@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2018-06-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Established in 1894, The Field Museum fish collection now contains more than 1,700,000 specimens, 130,000 lots, 10,000 species, 4,500 tissuesamples, 3,500 skeletons, 1,400 nominal types, and 450 families. Specimens range from the lobe-finned Coelacanth and lungfishes, to a diversity of freshwater catfishes and cichlids, to charismatic reef fishes such as the amazing Slingjaw Wrasse and venomous Red Lionfish.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>https://www.fieldmuseum.org/field-museum-natural-history-conditions-and-suggested-norms-use-collections-data-and-images</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://fieldmuseum.org/explore/department/zoology/fishes/collections</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Global</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Sharon</givenName>          <surName>Grant</surName>
+    </individualName>
+<organizationName>Field Museum of Natural History</organizationName><positionName>Technology Liaison to Science</positionName>    <address>
+<deliveryPoint>1400 S Lake Shore Drive</deliveryPoint><city>Chicago</city><administrativeArea>IL</administrativeArea><postalCode>60605</postalCode><country>UNITED_STATES</country>    </address>
+<phone>3126657203</phone><electronicMailAddress>sgrant@fieldmuseum.org</electronicMailAddress><onlineUrl>http://www.fieldmuseum.org</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2018-10-22T11:49:57Z</dateStamp>
+      <citation>Grant S, Swagel K (2018). Field Museum of Natural History (Zoology) Fish Collection. Version 13.5. Field Museum. Occurrence dataset https://doi.org/10.15468/alz7wu accessed via GBIF.org on 2018-10-22.</citation>
+              <resourceLogoUrl>http://fmipt.fieldmuseum.org:8080/ipt/logo.do?r=fmnh_fishes</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="56caf05f-1364-4f24-85f6-0c82520c2792"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/jmsnwg</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nhm.ku.edu/ipt/resource?r=kubi_ichthyology_tissue</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nhm.ku.edu/ipt/resource.do?r=kubi_ichthyology_tissue</alternateIdentifier>
+        <alternateIdentifier>56caf05f-1364-4f24-85f6-0c82520c2792</alternateIdentifier>
+        <alternateIdentifier>14303</alternateIdentifier>
+    <title>KUBI Ichthyology Tissue Collection</title>
+    <creator>
+    <individualName>
+<givenName>Andrew</givenName>          <surName>Bentley</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>1345 Jayhawk Blvd.</deliveryPoint><city>Lawrence</city><administrativeArea>KS</administrativeArea><postalCode>66046</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 785-864-3863</phone><electronicMailAddress>abentley@ku.edu</electronicMailAddress><onlineUrl>http://ichthyology.biodiversity.ku.edu/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Andrew</givenName>          <surName>Bentley</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>1345 Jayhawk Blvd.</deliveryPoint><city>Lawrence</city><administrativeArea>KS</administrativeArea><postalCode>66046</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 785-864-3863</phone><electronicMailAddress>abentley@ku.edu</electronicMailAddress><onlineUrl>http://ichthyology.biodiversity.ku.edu/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Laura</givenName>          <surName>Russell</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>larussell@ku.edu</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2018-10-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The University of Kansas Ichthyology frozen tissue collection continues to expand rapidly and has broad representation of both marine and freshwater fish diversity - 11,000 individual tissue samples from 2384 taxa (297 families and 1077 genera) and 38 countries (Australia, Belize, Ethiopia, Fiji, Nepal, Seychelles, South Africa and Tonga etc., as well as oceanic localities).  The collections and the scope of research activities in the division continue to grow due to the ongoing activities of ichthyology staff and students.
+
+The collection is used by national and international researchers as well as by state and federal agencies. The Division of Ichthyology is designated as a Regional Center in the Midwest and Great Plains Regions (Collette &amp;amp; Lachner 1976, Copeia 1976: 625-642; Poss and Collette 1995, Copeia 1995: 48-70) and is among the top twenty ichthyological collections in the country. Almost 60% of the specimens in the collection are from the Great Plains Region. The collection is an important resource for anyone interested in the region&amp;#39;s fishes. The data concerning these faunas are not extensively duplicated by other ichthyological collections.
+
+The tissue collection comprises tissue samples originally collected in liquid nitrogen, DMSO and ethanol and stored in state-of-the-art liquid nitrogen dewars at -170°C. The tissues are made up mostly of muscle tissue but also includes, liver and other internal organs, fin clips and whole specimens.  A large proportion of our collection has vouchers held either at KU or at other collections.  The provenance of these vouchers is indicated in the database</para>
+    </abstract>
+        <keywordSet>
+              <keyword>cryogenic</keyword>
+              <keyword>fish</keyword>
+              <keyword>ichthyology</keyword>
+              <keyword>frozen</keyword>
+              <keyword>tissue</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://biodiversity.ku.edu/research/university-kansas-biodiversity-institute-data-publication-and-use-norms</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://biodiversity.ku.edu/ichthyology/collections</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The frozen tissue collection has broad representation of both marine and freshwater fish diversity from 38 countries (Australia, Belize, Ethiopia, Fiji, Nepal, Seychelles, South Africa and Tonga etc., as well as oceanic localities).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1960-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-01-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Actinistia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Actinopterygii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Myxini</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Sarcopterygii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Dipnoi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Cephalaspidomorphi</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Andrew</givenName>          <surName>Bentley</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>1345 Jayhawk Blvd.</deliveryPoint><city>Lawrence</city><administrativeArea>KS</administrativeArea><postalCode>66046</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 785-864-3863</phone><electronicMailAddress>abentley@ku.edu</electronicMailAddress><onlineUrl>http://ichthyology.biodiversity.ku.edu/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2018-10-22T11:49:57Z</dateStamp>
+      <citation>Bentley A (2018). KUBI Ichthyology Tissue Collection. Version 18.26. University of Kansas Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/jmsnwg accessed via GBIF.org on 2018-10-22.</citation>
+              <collection>
+                <parentCollectionIdentifier>KU</parentCollectionIdentifier>
+                <collectionIdentifier>KUIT</collectionIdentifier>
+                <collectionName>KUBI Ichthyology Tissue Collection</collectionName>
+              </collection>
+                <specimenPreservationMethod>DEEP_FROZEN</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>tissue</jgtiUnitType>
+                      <jgtiUnits uncertaintyMeasure="100">11,000</jgtiUnits>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,39 @@
+
+Dataset: Queensland Museum provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lizard Island Research Station
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Questagame weekly feed
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museums Victoria provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CAS Ichthyology (ICH)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: ALA species sightings and OzAtlas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The fishes collection (IC) of the Muséum national d'Histoire naturelle (MNHN - Paris)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Pisces Collection at the Staatssammlung für Anthropologie und Paläoanatomie München
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museum of Comparative Zoology, Harvard University, doi:10.15468/p5rupv
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: KUBI Ichthyology Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Field Museum of Natural History (Zoology) Fish Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: KUBI Ichthyology Tissue Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Australian Museum provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of California Museum of Paleontology
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Occurrence records of southern African aquatic biodiversity
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Extant Specimen Records
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens, http://dx.doi.org/10.5519/0002965
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: iNaturalist Research-grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
