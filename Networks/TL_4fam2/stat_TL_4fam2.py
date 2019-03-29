@@ -149,7 +149,7 @@ exp_lr_scheduler = lr_scheduler.StepLR(optimizer_conv, step_size=7, gamma=0.1)
 
 print("resnet18 set")
 
-model_conv.load_state_dict(torch.load("state2.pt"))
+model_conv.load_state_dict(torch.load("trained_T4F2.pt"))
 
 print("parameter loaded")
 
