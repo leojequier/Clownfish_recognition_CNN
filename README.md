@@ -17,7 +17,7 @@ You can start by taking a look at the final report of my project, ./'report - LÃ
 ## More details 
 Otherwise, the different folders contain:
 * **Networks:** organized by architecture and type of initialization. TL = Transfer Learning; RI = random initialization; 2fam = two families; 4fam = four families; 4fam2 = four families + 1 outgroup constituted of random pictures of other families of Amphiprion sp.. If you don't know where to start, take a look at TL_2fam1. Each folder contains:
-  - **net\*.py:** Defines the architecture of the networks and trains them. By default, they will train on the ./Datasets/mini, you can change that by selecting setting another directory in the variable "file" at the begining of the script. 
+  - **net\*.py:** Defines the architecture of the networks and trains them. **By default, they will train on the ./Datasets/mini, you can change that by selecting setting another directory in the variable "file" at the begining of the script.**
   - **stat\*.py:** Tests the resulting network on the validation dataset. 
   - **extract_info_csv_train.py:** Transforms the text log of the training process in a csv file for an easier analysis of the change in loss and accuracy. 
   - **script\*.sh:** Launches the training on the cluster
