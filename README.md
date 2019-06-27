@@ -18,7 +18,7 @@ Otherwise, the different folders contain:
 * **Networks:** organized by architecture and type of initialization. TL = Transfer Learning RI = random initialization. 2fam = two families, 4fam = four families, 4fam2 = four families + 1 outgroup constituted of random pictures of other families of Amphiprion sp. If you don't know where to start, take a look at TL_2fam1. Each folder contains:
   - **net\*.py:** Defines the architecture of the networks and trains them. By default, they will train on the ./Datasets/mini, you can change that by selecting setting another directory in the variable "file" at the begining of the script. 
   - **stat\*.py:** Tests the resulting network on the validation dataset. 
-  - **extract_info_csv_train:** Transforms the text log of the training process in a csv file for an easier analysis of the change in loss and accuracy. 
+  - **extract_info_csv_train.py:** Transforms the text log of the training process in a csv file for an easier analysis of the change in loss and accuracy. 
   - **script\*.sh:** Launches the training on the cluster
   - **get_mean_std_dataset-py:** Calculates the mean and standard deviation of the colours in the pictures for colour normalization. 
 * **Analyse:** contains the csv with the change in loss and accuracy during the training of the networks and the R script used to create the plots in the report. 
