@@ -9,7 +9,7 @@ You can start by taking a look at the final report of my project, ./'report - LÃ
 ## Quick start:
 * Install python 3.7.1 & required dependencies (./Packages_used.txt).
 * Go to one of the network folders: ```cd Networks/TL_2fam1/ ```
-* Train the network: ```python netTL_2fam1.py > RI_2fam1.out``` 
+* Train the network and store the log in a txt file with the corresponding format: ```python netTL_2fam1.py > TL_2fam1.out``` 
 * Further test the trained network: ```python stat_TL_2fam1.py```
 * Extract the change in loss and accuracy during the training process from the text output to a csv at Clownfish_recognition_CNN/Analyse/your_results: ```python extract_info_csv_train.py```
 
