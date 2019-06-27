@@ -27,7 +27,7 @@ import get_mean_std_dataset as gm
 #file/val/class2
 #...
 
-file = "classify2"
+file = "../../Datasets/mini"
 
 #get mean and std for Data normalisation
 params = gm.get_mean_std(file)
@@ -228,4 +228,4 @@ visualize_model(model_conv)
 plt.ioff()
 plt.savefig("prediction.jpg")
 
-torch.save(model_conv.state_dict(), "state.pt")
+torch.save(model_conv.state_dict(), "trainedTL_2fam1.pt")
