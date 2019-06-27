@@ -10,12 +10,13 @@ You can start by taking a look at the final report of my project, ./'report - LÃ
 * Install python 3.7.1 & required dependencies (./Packages_used.txt).
 * Go to one of the network folders: ```cd Networks/TL_2fam1/ ```
 * Train the network and store the log in a txt file with the corresponding format: ```python netTL_2fam1.py > TL_2fam1.out``` 
-* Further test the trained network: ```python stat_TL_2fam1.py```
+* Further test the trained network and check final accuracy: ```python stat_TL_2fam1.py```
 * Extract the change in loss and accuracy during the training process from the text output to a csv at Clownfish_recognition_CNN/Analyse/your_results: ```python extract_info_csv_train.py```
+* Verify that the there are no sign of abscence of learning or overfitting by plotting these value with the programm of your choice. 
 
 ## More details 
 Otherwise, the different folders contain:
-* **Networks:** organized by architecture and type of initialization. TL = Transfer Learning RI = random initialization. 2fam = two families, 4fam = four families, 4fam2 = four families + 1 outgroup constituted of random pictures of other families of Amphiprion sp. If you don't know where to start, take a look at TL_2fam1. Each folder contains:
+* **Networks:** organized by architecture and type of initialization. TL = Transfer Learning; RI = random initialization; 2fam = two families; 4fam = four families; 4fam2 = four families + 1 outgroup constituted of random pictures of other families of Amphiprion sp.. If you don't know where to start, take a look at TL_2fam1. Each folder contains:
   - **net\*.py:** Defines the architecture of the networks and trains them. By default, they will train on the ./Datasets/mini, you can change that by selecting setting another directory in the variable "file" at the begining of the script. 
   - **stat\*.py:** Tests the resulting network on the validation dataset. 
   - **extract_info_csv_train.py:** Transforms the text log of the training process in a csv file for an easier analysis of the change in loss and accuracy. 
