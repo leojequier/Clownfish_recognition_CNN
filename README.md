@@ -6,6 +6,7 @@ The project is coded in python (version 3.7.1). The list of required packages ar
 
 You can start by taking a look at the final report of my project, ./'report - Léonard Jequier.pdf'. Otherwise, the different folders contains :
 
-* test
+* Networks : The scripts defining the architecture of the networks (net*.py), allowing to train them (net*.py), test the resulting network (stat*.py)
+  - test
 * test
 * test 
