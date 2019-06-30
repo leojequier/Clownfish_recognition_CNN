@@ -17,22 +17,34 @@ def get_info(path2file):
         return(to_return)
 d = get_info("RI_2fam1.out")
 
-with open("../train_accuracies.csv", "a") as csv:
-	csv.write("acc_R2f1,")
-	for i in range(len(d["train_acc"])):
-		csv.write(str(d["train_acc"][i])+ ",")
+with open("../../Analyse/your_results/train_accuracy_R2F1.csv", "a") as csv:
+        csv.write("\nacc_R2F1,")
+        for i in range(len(d["train_acc"])):
+                if i < len(d["train_acc"])-1:
+                        csv.write(str(d["train_acc"][i])+ ",")
+                else:
+                        csv.write(str(d["train_acc"][i]))
 
-with open("../train_accuracies.csv", "a") as csv:
-	csv.write("\nloss_R2f1,")
-	for i in range(len(d["train_loss"])):
-		csv.write(str(d["train_loss"][i])+ ",")
+with open("../../Analyse/your_results/train_accuracy_R2F1.csv", "a") as csv:
+        csv.write("\nloss_R2F1,")
+        for i in range(len(d["train_loss"])):
+                if i < len(d["train_loss"])-1:
+                        csv.write(str(d["train_loss"][i])+ ",")
+                else:
+                        csv.write(str(d["train_loss"][i]))
+        
+with open("../../Analyse/your_results/accuracies.csv", "a") as csv:
+        csv.write("\nacc_R2F1,")
+        for i in range(len(d["val_acc"])):
+                if i < len(d["val_acc"])-1:
+                        csv.write(str(d["val_acc"][i])+ ",")
+                else:
+                        csv.write(str(d["val_acc"][i]))
 
-with open("../accuracies.csv", "a") as csv:
-	csv.write("\nacc_R2f1,")
-	for i in range(len(d["val_acc"])):
-		csv.write(str(d["val_acc"][i])+ ",")
-
-with open("../accuracies.csv", "a") as csv:
-	csv.write("\nloss_R2f1,")
-	for i in range(len(d["val_loss"])):
-		csv.write(str(d["val_loss"][i])+ ",")
+with open("../../Analyse/your_results/accuracies.csv", "a") as csv:
+        csv.write("\nloss_R2F1,")
+        for i in range(len(d["val_loss"])):
+                if i < len(d["val_loss"])-1:
+                        csv.write(str(d["val_loss"][i])+ ",")
+                else:
+                        csv.write(str(d["val_loss"][i]))

@@ -33,7 +33,7 @@ import get_mean_std_dataset as gm
 #...
 
 #Chose source file
-file = "classify2"
+file = "../../Datasets/mini"
 
 class ImageFolderWithPaths(datasets.ImageFolder):
     """Custom dataset that includes image file paths. Extends

@@ -22,7 +22,7 @@ import get_mean_std_dataset as gm
 #-------------------------------------------------------------------
 #Loading data. 
 #Chose source file
-file = "classify2"
+file = "../../Datasets/mini"
 
 #get mean and std for Data normalisation
 params = gm.get_mean_std(file)
@@ -238,7 +238,7 @@ acc_val = []
 train_model(net, criterion, optimizer, scheduler, num_epochs=50)
 
 #save the best parameters of the model.
-torch.save(net.state_dict(), "state.pt")
+torch.save(net.state_dict(), "trainedRI_2fam1.pt")
 
 #save the loss and accuracy
 pickle.dump(loss_train, open("loss_train", "wb"))
